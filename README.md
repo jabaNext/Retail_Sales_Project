@@ -1,8 +1,8 @@
-Executive Performance Analysis
-Financial Performance Overview
+# Executive Performance Analysis
+## Financial Performance Overview
 The business generated $15M in total revenue from 5K orders and 15K units sold, delivering $14.27M profit after discounts.
 
-This reflects:
+## This reflects:
 
 Strong revenue generation
 
@@ -20,7 +20,7 @@ Revenue concentration in one region suggests both strength and geographic depend
 
 Strategic Insight: While East is a mature high-performing market, scaling other regions is essential for long-term stability.
 
-Customer Demographic Insights
+## Customer Demographic Insights
 The Senior segment consistently generates the highest sales across all regions.
 
 The Middle Age segment underperforms relative to other age groups.
@@ -50,7 +50,8 @@ Fashion: $3.9M
 
 Groceries: $1.1M
 
-Strategic Insight: Revenue concentration across two dominant categories increases exposure risk while highlighting strong category leadership.
+## Strategic Insight:
+Revenue concentration across two dominant categories increases exposure risk while highlighting strong category leadership.
 Seasonal & Growth Trend Analysis (2023–2024)
 Quarterly data shows:
 
@@ -66,7 +67,7 @@ November: -3% decline
 
 December: +1% slight recovery
 
-Interpretation:
+## Interpretation:
 
 Strong acceleration in early Q4 (September & October)
 
@@ -74,7 +75,8 @@ Performance slowdown begins in November
 
 December stabilizes but shows minimal recovery
 
-Strategic Insight: Growth momentum peaks early in Q4 but loses strength toward year-end, possibly due to market saturation, pricing pressure, or promotion fatigue.
+## Strategic Insight:
+Growth momentum peaks early in Q4 but loses strength toward year-end, possibly due to market saturation, pricing pressure, or promotion fatigue.
 Strategic Recommendations
 Growth Stabilization Strategy
 Investigate November decline (-3%) to identify root causes
